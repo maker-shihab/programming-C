@@ -106,10 +106,6 @@ type variableName = value;
 
 - Error handling involves handling and managing errors or exceptional situations that may occur during program execution. This can be done using techniques like error codes, error messages, and exception handling mechanisms.
 
-```
+### Merge Sorting Algorithm
 
-```
-
-```
-
-```
+[Here is slide](https://docs.google.com/presentation/d/1ltxGrH-9tuXe_x7yK1HVdYjkCiEhUtDC1ec1AjpzFCQ/edit?usp=sharing)
