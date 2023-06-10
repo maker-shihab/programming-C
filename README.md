@@ -14,6 +14,62 @@ Welcome to the world of Basic C Programming! This repository is designed to prov
 
 - Variables are used to store data in a program. They have a specific data type (such as int, float, char) and a name that you can assign. You can assign values to variables and perform operations on them.
 
+```c
+In C, there are different types of variables (defined with different keywords), for example:
+
+int - stores integers (whole numbers), without decimals, such as 123 or -123
+float - stores floating point numbers, with decimals, such as 19.99 or -19.99
+char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+```
+
+- Declaring (Creating) Variables
+
+To create a variable, specify the type and assign it a value:
+
+```c
+# Syntax
+type variableName = value;
+```
+
+- Format Specifiers:
+  Format specifiers are used together with the `printf()` function to tell the compiler what type of data the variable is storing. It is basically a placeholder for the variable value.
+
+  ```c
+  // Create variables
+  int myNum = 15;            // Integer (whole number)
+  float myFloatNum = 5.99;   // Floating point number
+  char myLetter = 'D';       // Character
+
+  // Print variables
+  printf("%d\n", myNum);
+  printf("%f\n", myFloatNum);
+  printf("%c\n", myLetter);
+
+  // Student data
+  int studentID = 15;
+  int studentAge = 23;
+  float studentFee = 75.25;
+  char studentGrade = 'B';
+
+  // Print variables
+  printf("Student id: %d\n", studentID);
+  printf("Student age: %d\n", studentAge);
+  printf("Student fee: %f\n", studentFee);
+  printf("Student grade: %c", studentGrade);
+
+  // Create a variable and assign the value 15 to it
+  int myNum = 15;
+
+  // Declare a variable without assigning it a value
+  int myOtherNum;
+
+  // Assign the value of myNum to myOtherNum
+  myOtherNum = myNum;
+
+  // myOtherNum now has 15 as a value
+  printf("%d", myOtherNum);
+  ```
+
 ### Data Types:
 
 - C has various data types, including int (for integers), float (for floating-point numbers), char (for characters), and more. Each data type determines the range of values and the type of operations that can be performed on the variables.
@@ -49,3 +105,11 @@ Welcome to the world of Basic C Programming! This repository is designed to prov
 ### Error Handling:
 
 - Error handling involves handling and managing errors or exceptional situations that may occur during program execution. This can be done using techniques like error codes, error messages, and exception handling mechanisms.
+
+```
+
+```
+
+```
+
+```
