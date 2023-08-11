@@ -111,5 +111,5 @@ type variableName = value;
 [Here is the slide](https://docs.google.com/presentation/d/1ltxGrH-9tuXe_x7yK1HVdYjkCiEhUtDC1ec1AjpzFCQ/edit?usp=sharing)
 
 
-[Here is the outpup]([https://docs.google.com/presentation/d/1ltxGrH-9tuXe_x7yK1HVdYjkCiEhUtDC1ec1AjpzFCQ/edit?usp=sharing](https://docs.google.com/document/d/162YxZ7ank81XQNqVv0pL9dhkjJQza77SpQTvdUTVkVM/edit?usp=sharing)https://docs.google.com/document/d/162YxZ7ank81XQNqVv0pL9dhkjJQza77SpQTvdUTVkVM/edit?usp=sharing)
+[Here is the outpup](https://docs.google.com/presentation/d/1ltxGrH-9tuXe_x7yK1HVdYjkCiEhUtDC1ec1AjpzFCQ/edit?usp=sharing)
 
